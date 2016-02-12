@@ -60,3 +60,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Mechalature Unique Data
+*.save
+*.infopack
+
+# PyCharm 
+.idea/
