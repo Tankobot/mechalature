@@ -1,2 +1,3 @@
-# mechalature
-A Python text document automatic annotator. 
+# Mechalature
+
+A Python text document annotation algorithm. 
