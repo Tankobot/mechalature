@@ -15,7 +15,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/ Using that for modules. 
 lib64/
 parts/
 sdist/
