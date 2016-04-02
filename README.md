@@ -1,3 +1,3 @@
 # Mechalature
 
-A Python text document annotation algorithm. 
+A Python text document analysis library.
