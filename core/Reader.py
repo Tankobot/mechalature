@@ -1,3 +1,5 @@
 class Reader:
     """File-like object for text analysis."""
-    pass
+
+    def __init__(self, source):
+        assert source.read
