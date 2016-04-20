@@ -1,3 +1,3 @@
 """Mechalature core package."""
 
-from .Reader import Reader
+from .LiteraryParser import LiteraryParser
